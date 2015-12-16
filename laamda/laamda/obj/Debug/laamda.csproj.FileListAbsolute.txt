@@ -1,0 +1,6 @@
+c:\users\андрей эддуардович\documents\visual studio 2013\Projects\laamda\laamda\bin\Debug\laamda.exe.config
+c:\users\андрей эддуардович\documents\visual studio 2013\Projects\laamda\laamda\obj\Debug\laamda.csprojResolveAssemblyReference.cache
+c:\users\андрей эддуардович\documents\visual studio 2013\Projects\laamda\laamda\bin\Debug\laamda.exe
+c:\users\андрей эддуардович\documents\visual studio 2013\Projects\laamda\laamda\bin\Debug\laamda.pdb
+c:\users\андрей эддуардович\documents\visual studio 2013\Projects\laamda\laamda\obj\Debug\laamda.exe
+c:\users\андрей эддуардович\documents\visual studio 2013\Projects\laamda\laamda\obj\Debug\laamda.pdb
